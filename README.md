@@ -1,1 +1,1 @@
-# Financial_analysis_project
+# Amazon_sales_analysis
